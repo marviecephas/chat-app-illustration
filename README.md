@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://https://github.com/marviecephas/chat-app-illustration.com)
-- Live Site URL: [live site URL](https://https://marviecephas.github.io/chat-app-illustration/.com)
+- Solution URL: [solution URL](https://github.com/marviecephas/chat-app-illustration)
+- Live Site URL: [live site URL](https://marviecephas.github.io/chat-app-illustration/)
 
 ## My process
 
