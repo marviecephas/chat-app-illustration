@@ -1,2 +1,49 @@
-# chat-app-illustration
-  stay in touch with our dog walkers through the chat interface, making it easy to discuss arrangements and make bookings. Once the walk has been completed you can rate your walker and book again all through the chat...  my solution to the chat app css illustration challenge on frontend mentor.
+# Frontend Mentor - Chat app CSS illustration solution
+
+This is a solution to the [Chat app CSS illustration challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the component depending on their device's screen size
+
+### Screenshot
+
+![](./mobile-design.jpg)
+
+![](./desktop-design.jpg)
+
+### Links
+
+- Solution URL: [solution URL](https://https://github.com/marviecephas/chat-app-illustration.com)
+- Live Site URL: [live site URL](https://https://marviecephas.github.io/chat-app-illustration/.com)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+
+
+## Author
+
+- Website - [my github](https://www.github.com/marviecephas)
+- Frontend Mentor - [@marviecephas](https://www.frontendmentor.io/profile/marviecephas)
+- Twitter - [@marviecephas](https://www.twitter.com/marviecephas)
+
