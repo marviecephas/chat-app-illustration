@@ -245,6 +245,7 @@ body {
     }
     .top {
         height:80%;
+        border-radius:0 0 400px 300px;
     }
     .bottom {
         height:80%;
