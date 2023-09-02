@@ -149,7 +149,7 @@ body {
     display:flex;
     background:linear-gradient(to right, hsl(293, 100%, 63%), hsl(264, 100%, 61%));
     width:220px;
-    border-radius:15px 15px 15px 2px;
+    border-radius:20px 20px 10px 2px;
     padding:10px 20px 10px 10px;
     align-items:center;
     position:relative;
@@ -209,7 +209,7 @@ body {
     text-align:center;
 }
 .description_header{
-    font-size:30px;
+    font-size:35px;
     color:hsl(271, 36%, 24%);
 }
 .description_paragraph{
@@ -232,16 +232,21 @@ body {
     .first_sub_parent_container{
         justify-content:flex-end;
         width:50%;
+        padding-right:5%;
     }
     .second_sub_parent_container {
        bottom:0;
-       padding-right:12%;
+       align-items:flex-start;
        width:50%;
     }
+    .second_sub_parent_container>*{
+        text-align:left;
+        max-width:400px;
+    }
     .top {
-        height:50%;
+        height:80%;
     }
     .bottom {
-        height:50%;
+        height:80%;
     }
 }
